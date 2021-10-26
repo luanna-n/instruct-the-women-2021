@@ -1,6 +1,5 @@
 from rest_framework.test import APITestCase
 
-
 class OpenTests(APITestCase):
     def test_titan_project(self):
         django_version = "2.2.24"
