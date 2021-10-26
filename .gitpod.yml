@@ -18,3 +18,5 @@ vscode:
   extensions:
     - ms-python.python
     - eamodio.gitlens
+    #Pra corrigir o erro!
+    - ms-toolsai.jupyter
