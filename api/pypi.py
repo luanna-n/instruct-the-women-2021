@@ -30,4 +30,4 @@ def latest_version(package_name):
     else:
         r = r.json()
         return list(r['releases'].keys())[-1]
-        //return r['info']['version']
+        #return r['info']['version']
